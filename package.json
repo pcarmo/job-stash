@@ -1,5 +1,7 @@
 {
   "dependencies": {
-    "react-facebook-login": "^4.1.1"
+    "react-facebook-login": "^4.1.1",
+    "react-social-login": "^3.4.17",
+    "react-social-login-buttons": "^3.9.1"
   }
 }
